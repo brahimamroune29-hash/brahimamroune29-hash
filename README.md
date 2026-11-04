@@ -8,19 +8,19 @@ I build **systems that help businesses grow**: they save time, cut costs, and in
 
 ### 🛠️ What I build
 
-- 📈 **Sales & lead systems**: Meta Ads → WhatsApp qualification → booked appointments and orders
+- 📈 **Sales systems**: customer inquiries → automatic qualification → booked appointments and confirmed orders
 - ⚙️ **Automations** that remove manual work: orders, follow-ups, CRM updates, reports (n8n, with built-in guards)
 - 🤖 **AI assistants** that answer customers on WhatsApp, Instagram & Messenger 24/7 and hand off to a human when needed
 - 📊 **Dashboards & internal tools** so owners see what's working and run the business from one place
 
 ### 📈 Results
 
-- **Dental clinic (Algiers):** ads + WhatsApp booking system → **7 booked appointments** in the first campaign
+- **Booking system (dental clinic):** automated WhatsApp booking → **7 appointments booked** without manual follow-up
 - **3 businesses** running AI chatbot systems in production
 
 ### 🧰 Stack
 
-`n8n` · `WhatsApp Business API` · `Meta Ads` · `Supabase` · `Claude` · `TypeScript` · `Next.js`
+`n8n` · `WhatsApp Business API` · `Supabase` · `Claude` · `TypeScript` · `Next.js`
 
 ### 🎁 Free & open source
 
