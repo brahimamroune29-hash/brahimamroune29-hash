@@ -28,6 +28,12 @@ I build **systems that help businesses grow**: they save time, cut costs, and in
 
 ---
 
+### 🔍 Free audit: where are you losing customers?
+
+Send me screenshots of your WhatsApp or Instagram conversations. I'll show you exactly where customers drop off, for free.
+
+ابعثلي screenshots تاع محادثاتك مع الزبائن، نقولك وين راك تخسر زبائن. مجاناً.
+
 ### 💬 Want a system like this in your business?
 
 Send **"نظام"** on Instagram 👉 **[@brahim_amro](https://instagram.com/brahim_amro)**
