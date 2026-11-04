@@ -1,22 +1,22 @@
 # Hi, I'm Brahim 👋
 
-I build AI systems that **answer customer messages, qualify leads, and book appointments** so businesses stop losing clients in their DMs.
+I build **systems that help businesses grow**: they save time, cut costs, and increase revenue.
 
-مرحبا، أنا براهيم. نبني أنظمة ذكاء اصطناعي ترد على رسائل الزبائن في واتساب وإنستغرام، تفرز الجادين، وتحجز المواعيد، باش ما يضيعلكش حتى عميل.
+مرحبا، أنا براهيم. نبني أنظمة تخلي البزنس يكبر: توفّر الوقت، تنقّص المصاريف، وتزيد في الأرباح.
 
 ---
 
 ### 🛠️ What I build
 
-- 🤖 **WhatsApp, Instagram & Messenger chatbots** that reply instantly, take orders, and hand off to a human when needed
-- 🦷 **Clinic booking systems**: Meta Ads → WhatsApp qualification → confirmed appointment
-- ⚙️ **n8n automation workflows** with built-in guards (dedup, kill switch, daily caps, error branches)
-- 🧠 **Claude Code skills** for building bots and automations faster
+- 📈 **Sales & lead systems**: Meta Ads → WhatsApp qualification → booked appointments and orders
+- ⚙️ **Automations** that remove manual work: orders, follow-ups, CRM updates, reports (n8n, with built-in guards)
+- 🤖 **AI assistants** that answer customers on WhatsApp, Instagram & Messenger 24/7 and hand off to a human when needed
+- 📊 **Dashboards & internal tools** so owners see what's working and run the business from one place
 
 ### 📈 Results
 
-- **Dental clinic (Algiers):** Meta Ads + WhatsApp system → **7 booked appointments** in the first campaign
-- **3 chatbot clients** running in production
+- **Dental clinic (Algiers):** ads + WhatsApp booking system → **7 booked appointments** in the first campaign
+- **3 businesses** running AI chatbot systems in production
 
 ### 🧰 Stack
 
@@ -28,6 +28,6 @@ I build AI systems that **answer customer messages, qualify leads, and book appo
 
 ---
 
-### 💬 Want this system in your business?
+### 💬 Want a system like this in your business?
 
 Send **"نظام"** on Instagram 👉 **[@brahim_amro](https://instagram.com/brahim_amro)**
